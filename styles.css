@@ -73,7 +73,7 @@ body {
 
 .resume_wrapper .resume_item {
   padding: 20px 0;
-  border-bottom: 1px solid #0175b2;
+  /* border-bottom: 1px solid #0175b2; */
 }
 
 .resume_titlecomp {
