@@ -147,12 +147,14 @@ body {
 .resume_wrapper .resume_right .resume_namerole .name {
   color: #26252d;
   font-size: 32px;
+  
 }
 
 .resume_wrapper .resume_right .resume_namerole .role {
   font-size: 18px;
   text-transform: uppercase;
   padding-top: 15px;
+  
 }
 
 .resume_wrapper .resume_right .resume_item .resume_title {
