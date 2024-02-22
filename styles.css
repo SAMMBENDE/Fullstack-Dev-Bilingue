@@ -17,11 +17,16 @@ ul li {
 
 .blue {
   color: #0175b2;
-  font-weight: bold;
+  font-weight:700;
 }
+
+.diplome {
+  font-size: 10px;
+}
+
 body {
   background: #c4c4c4;
-  font-size: 14px;
+  font-size: 13px;
   line-height: 20px;
 }
 .speak1 {
@@ -57,10 +62,10 @@ body {
 .resume_wrapper .resume_title {
   color: #fff;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 16px;
-  margin-bottom: 5px;
-  letter-spacing: 4px;
+  margin-bottom: 2px;
+  letter-spacing: 2px;
 }
 
 .resume_wrapper .resume_left .resume_info {
@@ -81,8 +86,8 @@ body {
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 16px;
-  margin-bottom: 5px;
+  font-size: 14px;
+  margin-bottom: 2px;
   letter-spacing: 4px;
 }
 
@@ -122,7 +127,7 @@ body {
 
 .resume_wrapper .resume_left .resume_contact .resume_subtitle {
   color: #fff;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
 }
 
 .resume_wrapper .resume_left .resume_skills .skills_list {
@@ -166,14 +171,14 @@ body {
 }
 
 .resume_wrapper .resume_right .resume_data .year {
-  padding-right: 8px;
+  padding-right: 10px;
   width: 115px;
   position: relative;
 }
 
 .resume_wrapper .resume_right .resume_data .content {
   padding-left: 35px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   width: calc(100% - 115px);
 }
 
