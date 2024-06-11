@@ -223,6 +223,23 @@ body {
   margin-bottom: 10px;
 }
 
+/* IBM links */
+
+.ibms {
+  padding: 0;
+  list-style-type: none;
+}
+
+.ibms li.details {
+  display: flex;
+}
+
+.ibms li.details span {
+  margin-right: 30px; 
+}
+
+
+
 @media screen and (max-width: 800px) {
   .resume_wrapper .resume_right .resume_namerole {
     display: none;
@@ -278,8 +295,12 @@ body {
 
   .resume_wrapper .resume_right .resmue_interests .interests .int_icon {
     font-size: 14px;
+       
     
-    
+  }
+  .resume_info {
+    display: flex;
+
   }
 
   .speak1 {
